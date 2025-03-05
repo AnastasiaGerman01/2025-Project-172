@@ -8,7 +8,11 @@
 | Topic | Title | Year | Authors | Paper | Code | Summary |
 | :--- | :--- | ---: | :--- | :--- | :--- | :--- |
 | Key article | Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film | 2022 | Julia Berezutskaya and Mariska J. Vansteensel and Erik J. Aarnoutse and Zachary V. Freudenburg and Giovanni Piantoni and Mariana P. Branco and Nick F. Ramsey | [Scientific Data](https://www.nature.com/articles/s41597-022-01173-0) | - | Describes the main dataset, that is used in article|
-| Key article | Decoding fMRI data with support vector machines and deep neural networks | 2024 | Mingqian Zhao Baolin Liu | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165027023002236)| - | Show the way to deal with audio data, the corellation between sounds and fMRI are built|   
+| Optimization of models| Decoding fMRI data with support vector machines and deep neural networks | 2024 | Yun Lianga, Ke Bo, Sreenivasan Meyyappan, Mingzhou Ding| [ScienceDirect] (https://www.sciencedirect.com/science/article/pii/S0165027023002236)| - | show the difference between linear and nonlinear models in neuroscience task| 
+|Key article |An fMRI‐based auditory decoding framework combined
+with convolutional neural network for predicting the semantics of real‐life sounds from brain activity| 2025 | Mingqian Zhao Baolin Liu| [SpringerNatureLink](https://link.springer.com/article/10.1007/s10489-024-05873-5)| - |Show the way to deal with audio data, the corellation between sounds and fMRI is constructed|
+
+
 
 
 
