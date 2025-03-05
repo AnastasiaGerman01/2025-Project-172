@@ -16,7 +16,7 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Restoring fMRI sensor readings from the auditable audio sequence
+    :Название исследуемой задачи: Approximation fMRI data from the audio time series
     :Тип научной работы: M1P
     :Автор: Герман А.Я.
     :Научный руководитель: д.ф.-м.н., Грабовой Андрей Валериевич
