@@ -1,4 +1,3 @@
-# 2025-Project-172
 
 |test| |codecov| |docs|
 
