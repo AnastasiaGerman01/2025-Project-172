@@ -25,7 +25,9 @@
 Abstract
 ========
 
-Nowadays understanding how the brain perceives and processes external stimuli is essential for advancing neuroscience and improving diagnostic tools. In this article, we explore the relationship between human perception of the outside world and fMRI scanner readings. The analysis focuses on the correlation between a sequence of fMRI images and an auditory signal. A method for predicting fMRI readings based on the auditory sequence is proposed. The task of predicting complex, non-linear time series, influenced by exogenous factors and exhibiting multiple periodicities, is approached through the application of the Granger causality test.
+Nowadays understanding how the brain perceives and processes external stimuli is essential for advancing neuroscience and improving diagnostic tools. In this article, we explore the relationship between human perception of the outside world and fMRI scanner readings. The analysis focuses on the correlation between a sequence of fMRI images and an auditory signal. A method for predicting fMRI readings based on the auditory sequence is proposed. The task of predicting complex, non-linear time series, influenced by exogenous factors and exhibiting multiple periodicities, is approached through the application of Linear Regression.
+
 
 ======================================================
+
 В настоящее время понимание механизмов восприятия и обработки внешних стимулов мозгом приобретает критическую важность для прогресса нейронауки и совершенствования диагностических методик. В данной статье исследуется связь между субъективным восприятием окружающего мира человеком и показаниями сканера функциональной магнитно‑резонансной томографии (фМРТ). Анализ направлен на изучение корреляции между последовательностью изображений фМРТ и аудиосигналом. Предлагается метод прогнозирования показаний фМРТ на основании характеристик аудиосигнала. Задача прогнозирования сложных нелинейных временных рядов, подверженных влиянию экзогенных факторов и обладающих множественными периодичностями, решается посредством применения метода линейной регрессии.
